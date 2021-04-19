@@ -1,0 +1,14 @@
+name: kraken2-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - anaconda
+dependencies:
+  - python
+  - kraken2
+  - krona
+  - git
+  - pip
+  - cutadapt
+  - multiqc
